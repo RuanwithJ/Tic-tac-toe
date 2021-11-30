@@ -17,7 +17,7 @@ def evaluate(state, Max):
         elif(state == 3):
             return -inf/2
         elif(state == 1):
-            return -inf/2           
+            return -inf           
         elif(state == 2):
             return inf
 
